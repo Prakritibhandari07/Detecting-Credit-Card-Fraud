@@ -1,4 +1,3 @@
-
 # 💳 Credit Card Fraud Detection
 
 A Machine Learning web application that detects whether a credit card transaction is **Legitimate** or **Fraudulent** using **Logistic Regression**. The application is built with **Python**, **Scikit-learn**, and **Streamlit**.
