@@ -3,7 +3,6 @@
 A Machine Learning web application that detects whether a credit card transaction is **Legitimate** or **Fraudulent** using **Logistic Regression**. The application is built with **Python**, **Scikit-learn**, and **Streamlit**.
 
 ## 🚀 Live Demo
-
 🔗 **Try the App Here:**
 
 https://detecting-credit-card-fraud-vgwrhrds5kvclfbghrt6gu.streamlit.app
