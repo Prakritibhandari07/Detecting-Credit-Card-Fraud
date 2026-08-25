@@ -8,7 +8,6 @@ A Machine Learning web application that detects whether a credit card transactio
 https://detecting-credit-card-fraud-vgwrhrds5kvclfbghrt6gu.streamlit.app
 
 ---
-
 ## 📌 Features
 
 - Detects fraudulent credit card transactions
