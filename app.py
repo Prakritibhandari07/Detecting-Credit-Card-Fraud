@@ -47,4 +47,4 @@ if submit:
     if prediction[0]==0: 
         st.write("Legitimate Transaction") 
     else: 
-        st.write("Fradulant Transaction")    you mean this?
+        st.write("Fradulant Transaction")    
