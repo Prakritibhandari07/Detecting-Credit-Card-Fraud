@@ -1,6 +1,8 @@
 # 💳 Credit Card Fraud Detection
 
-A machine learning application that detects potentially fraudulent credit card transactions using Logistic Regression. The trained model is exposed through a FastAPI REST API and integrated with a Streamlit web interface for real-time predictions.
+An end-to-end machine learning application for detecting potentially fraudulent credit card transactions.
+
+The project combines a Scikit-learn machine learning pipeline with a FastAPI REST API, Dockerized deployment, and a Streamlit frontend for real-time predictions.
 
 ## 🚀 Live Demo
 
@@ -12,6 +14,9 @@ https://detecting-credit-card-fraud.onrender.com/
 
 ### 📚 API Documentation
 https://detecting-credit-card-fraud.onrender.com/docs
+
+### 💻 GitHub Repository
+https://github.com/Prakritibhandari07/Detecting-Credit-Card-Fraud
 
 ---
 
